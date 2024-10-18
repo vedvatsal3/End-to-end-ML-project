@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level = logging.INFO, format= '[%(ascitime)s]: %(message)s:')
 
-project_name = "Wine quality prediction"
+project_name = "Winequalityprediction"
 
 list_of_files = [
     
