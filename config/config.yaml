@@ -7,4 +7,9 @@ data_ingestion:
   unzip_dir: artifacts/data_ingestion
 
 
+data_validation:
+  root_dir: artifacts/data_validation
+  unzip_data_dir: artifacts/data_ingestion/WineQT.csv
+  STATUS_FILE: artifacts/data_validation/status.txt
 
+  
